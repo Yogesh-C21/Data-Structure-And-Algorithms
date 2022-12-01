@@ -1,0 +1,1 @@
+if((!p->next) && p) first = p;
